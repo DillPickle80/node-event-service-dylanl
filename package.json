@@ -1,0 +1,25 @@
+{
+  "name": "event-service-dylanl",
+  "version": "1.0.0",
+  "description": "Service node TP2",
+  "main": "eventServices.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/DillPickle80/node-event-service-dylanl.git"
+  },
+  "author": "Dylan Lepage",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/DillPickle80/node-event-service-dylanl/issues"
+  },
+  "homepage": "https://github.com/DillPickle80/node-event-service-dylanl#readme",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
+  "scripts": {
+  "start": "eventServices.js"
+  }
+}
